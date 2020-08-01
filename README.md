@@ -1,4 +1,6 @@
 ## demo1 图片懒加载
+##### 预备知识详情请参考我的博客
+https://www.cnblogs.com/xmjs/p/13415904.html
 + 原始版本
 ```js
         // 绑定滚动事件
